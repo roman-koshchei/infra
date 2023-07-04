@@ -6,6 +6,12 @@ Infrastructure and other resources to use in my projects
 
 Limits were updated on 18.06.23
 
+To get email for domain:
+
+- [Zoho](https://www.zoho.com/mail/zohomail-pricing.html?src=mpd-menu) - at link scroll down and you will see **Forever Free Plan**
+
+Services to send emails:
+
 |                                                      | Free limit               |
 | ---------------------------------------------------- | ------------------------ |
 | [SendGrid](https://sendgrid.com/)                    | 100/day                  |
