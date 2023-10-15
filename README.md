@@ -2,7 +2,19 @@
 
 Infrastructure and other resources to use in my projects
 
-## Deploy
+## Database
+
+Database hosting with free plans and distribution accross the world.
+
+- [PlanetScale](https://planetscale.com/) - MySQL
+- [Turso](https://turso.tech/) - LibSql (like SQLite)
+- [Neon](https://neon.tech/) - PostgreSQL
+- [CockroachDB](https://cockroachlabs.cloud/) - like PostgreSQL
+- [LiteFS](https://fly.io/docs/litefs/) - SQLite
+
+You can also host a database on servers hostings down below:
+
+## Servers
 
 Hosting/Deployment platforms with free plans. 
 Some of them are in Beta, a lot of them provide distribution accross the world.
