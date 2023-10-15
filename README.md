@@ -2,6 +2,25 @@
 
 Infrastructure and other resources to use in my projects
 
+## Deploy
+
+Hosting/Deployment platforms with free plans. 
+Some of them are in Beta, a lot of them provide distribution accross the world.
+
+Any server (Docker support):
+
+- [Fly](https://fly.io)
+- [Render](https://render.com)
+- [Hop](https://hop.io)
+- [Railway](https://railway.app)
+- [F10](https://www.fl0.com)
+- [Koyeb](https://www.koyeb.com)
+
+Frontend / JS / TS:
+
+- Vercel
+- Netlify 
+
 ## Email sending
 
 Limits were updated on 18.06.23
